@@ -24,8 +24,8 @@ Instructions
  -------
  1. Should consume regular and discounted bill from the grocerybill-ws 
  2. Should be able to add the attribute from regular and discounted bill using model interface so that view can easily access the data.
- 3. Should be enabled to client side load balancing using ribbon
- 4. Should be access using this URL: http://localhost:7070/techxplore/grocery
+ 3. Should enable client side load balancing using ribbon
+ 4. Should access using this URL: http://localhost:7070/techxplore/grocery
 
 	
 HAPPY CODING :D

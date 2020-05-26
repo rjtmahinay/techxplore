@@ -6,8 +6,13 @@ Instructions
 		- frontend (grocerybill-ui)
 		- backend  (grocerybill-ws)
   4. Push your answers to your GitHub repository (techxplore).
-  5. Open a pull request 
-  6. Add comment with your complete name and email and send.
+  6. Send to <email address> with this format:
+		- Subject name: Accenture TechXplore - coding activity solutions
+		- Body: 
+			- Complete name
+			- Mobile no.
+			- Github repository link
+		
   
  Requirements for you to complete the code
  =======

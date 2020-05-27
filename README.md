@@ -6,13 +6,13 @@ Instructions
 		- frontend (grocerybill-ui)
 		- backend  (grocerybill-ws)
   4. Push your answers to your GitHub repository (techxplore).
-  6. Send to <email address> with this format:
-		- Subject name: Accenture TechXplore - coding activity solutions
+  6. Send via email by following this format:
+		- Sender email address:  email address used during registration
+		- Recipient email address: careers.ph@accenture.com
+		- Subject name: Accenture TechXplore - Code Challenge
 		- Body: 
-			- Complete name
-			- Mobile no.
 			- Github repository link
-		
+			
   
  Requirements for you to complete the code
  =======

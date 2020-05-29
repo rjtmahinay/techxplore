@@ -1,12 +1,10 @@
 package com.acn.texchxplore.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.acn.texchxplore.domain.GroceryBill;
-import com.acn.texchxplore.entity.Item;
 import com.acn.texchxplore.entity.ShoppingClerk;
 import com.acn.texchxplore.impl.DiscountedBill;
 import com.acn.texchxplore.impl.RegularBill;

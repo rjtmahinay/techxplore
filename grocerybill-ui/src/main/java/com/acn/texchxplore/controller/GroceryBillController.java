@@ -31,7 +31,7 @@ public class GroceryBillController {
 	@Autowired
 	RestTemplate restTemplate;
 	
-	@GetMapping("/grocery")
+	@GetMapping("/techxplore/grocery")
 	public String getIndexPage(Model model) {
 		
 		GroceryBill regularBill = this.restTemplate.getForObject("http://localhost:9098/items/bill/regular", GroceryBill.class);

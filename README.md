@@ -1,3 +1,5 @@
+
+
 Instructions
 ========
   1. Fork this repository:  https://github.com/bentoihelloworld/techxplore.git
@@ -31,6 +33,3 @@ Instructions
  2. Should be able to bind the regular and discounted bill data to the view template using model interface.
  3. Should enable client side load balancing using ribbon
  4. Should access using this URL: http://localhost:7070/techxplore/grocery
-
-	
-HAPPY CODING :D
